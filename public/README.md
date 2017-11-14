@@ -3,12 +3,14 @@
 ## A Web-based Synth Pad For Everyone
 
 ## Description
-The app is intended to allow everyone to enjoy the satisfaction of creating and manipulating monophonic 
+- Intended to allow everyone to enjoy the satisfaction of creating and manipulating a monophonic synthesizer with a biaxial pad controller
+- Manipulate pitch and volume with the pad
+- Select different waveforms with buttons
+- Each time a new waveform is selected an inspiring or thought provoking comment displays at the bottom of the panel
 
-## Who has this problem?
-- People without synthesizers
-- People who aren't experts in sound synthesis or wave visualization
-- People without synthesizer software or hardware
+## URL
+- [Waveform](https://waveformg64.firebaseapp.com/#)
+- https://waveformg64.firebaseapp.com/#
 
 ## How will your project solve this problem?
 Eliminate the need for a hardware or software synthesizers or visualizers
@@ -35,6 +37,17 @@ Eliminate the need for a hardware or software synthesizers or visualizers
 - Change the type of sound to play
   - Select a waveform for generation
 - Display a creative strategy on the bottom of the page each time a new waveform is selected
+
+![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/tree/master/ScreenShots/ButtonLightOne.png
+![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/ButtonLightTwo.png
+![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/NarrowSaw.png
+![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/NarrowTriangle.png
+![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/StartNarrow.png
+![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/StartWide.png
+![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/Strategy.png
+![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/WideSin.png
+![alt text](https://raw.githubusercontent.com/andfwas/Q1Project/ScreenShots/WideSquare.png
+
 
 ## Upcoming Features
 - Frequency range sliders
